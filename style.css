@@ -1,0 +1,10 @@
+.p2 {color: brown;
+}
+.p2 {border-color: red;
+     border-width: 6px;
+    border-style: double;
+}
+.p2 {margin-left: 55%;
+     padding-left: 10%;
+     padding-top: 15%;
+}
